@@ -1,10 +1,10 @@
 ---
-Category: 'docker'
-Description: 'Docker repository for cnv_facets'
-Maintainers: ['ckandoth@mednet.ucla.edu']
-Contributors: ['Cyriac Kandoth']
-Languages: ['Dockerfile']
-Tools: ['cnv_facets']
-Version: ['0.16.0']
-Purpose of tool: 'Allele-specific somatic copy-number variant caller'
-References: 'https://github.com/dariober/cnv_facets'
+category: 'docker'
+description: 'Docker repository for cnv_facets'
+maintainers: ['mmootor@mednet.ucla.edu']
+languages: ['Dockerfile']
+tools: ['cnv_facets']
+version: ['0.16.0']
+purpose: 'Allele-specific somatic copy-number variant caller'
+references: 'https://github.com/dariober/cnv_facets'
+image_name: 'cnv_facets'
